@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jitter - Changing Distance", "Assembly-CSharp-firstpass.csproj", "{348D9B18-8B25-A886-8402-6B2A0C5D612D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jitter - Changing Distance", "Assembly-CSharp.csproj", "{ACE1CF4E-E512-B9AE-938D-A7437FF1DEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jitter - Changing Distance", "Assembly-CSharp-Editor.csproj", "{5D96008E-80D3-22A0-811F-DA3708078E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jitter - Changing Distance", "Assembly-UnityScript.unityproj", "{F8E616C6-1AAE-87D8-CAB7-194DF0AD359B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348D9B18-8B25-A886-8402-6B2A0C5D612D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D9B18-8B25-A886-8402-6B2A0C5D612D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348D9B18-8B25-A886-8402-6B2A0C5D612D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348D9B18-8B25-A886-8402-6B2A0C5D612D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE1CF4E-E512-B9AE-938D-A7437FF1DEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE1CF4E-E512-B9AE-938D-A7437FF1DEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE1CF4E-E512-B9AE-938D-A7437FF1DEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE1CF4E-E512-B9AE-938D-A7437FF1DEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D96008E-80D3-22A0-811F-DA3708078E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D96008E-80D3-22A0-811F-DA3708078E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D96008E-80D3-22A0-811F-DA3708078E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D96008E-80D3-22A0-811F-DA3708078E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E616C6-1AAE-87D8-CAB7-194DF0AD359B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E616C6-1AAE-87D8-CAB7-194DF0AD359B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E616C6-1AAE-87D8-CAB7-194DF0AD359B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E616C6-1AAE-87D8-CAB7-194DF0AD359B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
